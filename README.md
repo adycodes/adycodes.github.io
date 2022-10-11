@@ -1,5 +1,5 @@
-# Hello Ady
+# Hello Ady!
 
-## My portfolio
+## Portfolio ✨
 
-🔗 Project deployment
+🔗 Project deployment: [https://adycodes.github.io/hello-ady/]
