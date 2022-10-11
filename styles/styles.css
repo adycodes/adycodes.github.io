@@ -1,0 +1,17 @@
+body{
+    margin: 30px;
+    background-color: #ebddf8;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.note {
+    margin: 250px auto;
+    width: 400px;
+    padding: 70px;
+    text-align: center;
+    color: #2b2839;
+}
+
+.border-pink {
+    border: 5px dotted pink;
+}
