@@ -1,15 +1,17 @@
 body{
     margin: 30px;
     background-color: #ebddf8;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.note {
+.header {
     margin: 250px auto;
-    width: 400px;
+    width: 500px;
     padding: 70px;
     text-align: center;
     color: #2b2839;
+    font-family: 'Silkscreen', cursive;
+    font-size: 16px;
 }
 
 .border-pink {
