@@ -4,16 +4,19 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.header {
-    margin: 250px auto;
-    width: 500px;
+.title {
+    margin: 280px auto;
+    width: 800px;
     padding: 70px;
     text-align: center;
-    color: #2b2839;
+    color: white;
     font-family: 'Silkscreen', cursive;
-    font-size: 16px;
+    font-size: 25px;
+    text-shadow: -4px 4px 4px gray;
 }
 
-.border-pink {
-    border: 5px dotted pink;
+.hvr:hover{
+    background-color: #f1e4fa;
+    font-size: 135%;    
+    transition: 0.5s;
 }
