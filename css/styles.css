@@ -21,6 +21,8 @@ body{
 
 #message:hover{
     background-color: #f1e4fa;
+    border-radius: 8px;
+    padding: 6px;
     font-size: 135%;    
     transition: 0.5s;
 }
