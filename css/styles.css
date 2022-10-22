@@ -1,6 +1,6 @@
 body{
     margin: 30px;
-    background-color: #ebddf8;
+    background: linear-gradient(lightblue,#ebddf8);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -15,7 +15,11 @@ body{
     text-shadow: -4px 4px 4px gray;
 }
 
-.hvr:hover{
+#message {
+    font-family: Georgia, serif;
+}
+
+#message:hover{
     background-color: #f1e4fa;
     font-size: 135%;    
     transition: 0.5s;
